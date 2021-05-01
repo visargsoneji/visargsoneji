@@ -10,9 +10,9 @@
 - 👨‍💻 All of my projects are available at [github](https://github.com/visargsoneji?tab=repositories)
 
 - 📫 How to reach me **visargbs22@gmail.com**
+<br>
 
 
-	
 ### 🛠 &nbsp;Languages and Tools
 
 ![NodeJs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,9 +33,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white)
-<br>
 
-<br/>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
