@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Visarg Soneji</h1>
-<h3 align="center">a  <u>pro</u>grammer</h3>
+<h3 align="center">a  <u>pro</u>grammer!</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=visargsoneji&color=blueviolet&style=flat">
