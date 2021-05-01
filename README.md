@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [github](https://github.com/visargsoneji?tab=repositories)
 
 - 📫 How to reach me **visargbs22@gmail.com**
-<br>
+
 
 
 ### 🛠 &nbsp;Languages and Tools
