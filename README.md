@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=visargsoneji&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning ** Machine Learning System Design **
+- 🌱 I’m currently learning **Machine Learning System Design**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/visargsoneji?tab=repositories)
 
